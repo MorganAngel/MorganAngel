@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MorganAngel
+- 👋🏻 Hi, I’m @MorganAngel
 - 👀 I’m interested in gaming, music, and politics
-- 🌱 I’m currently learning html5
+- 🌱 I’m currently learning html5, java and C
 - 💞️ I’m looking to collaborate on creative projects
 - 📫 You can reach me on my discord
 
