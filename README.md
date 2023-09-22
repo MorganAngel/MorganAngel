@@ -1,8 +1,8 @@
 - 👋🏻 Hi, I’m @MorganAngel
 - 👀 I’m interested in gaming, music, and politics
-- 🌱 I’m currently learning html5, java and C
+- 🌱 I’m currently learning Html5, Java and C
 - 💞️ I’m looking to collaborate on creative projects
-- 📫 You can reach me on my discord
+- 📫 You can reach me on my Discord
 
 <!---
 MorganAngel/MorganAngel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
